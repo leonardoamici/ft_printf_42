@@ -1,6 +1,6 @@
 # ft_printf
 
-ft_printf is a smaller replica of the printf function created as part of 42Firenze's core curriculum. This project focuses on implementing the basic capablities of the printf function.
+ft_printf is a smaller replica of the printf function created as part of 42Firenze's core curriculum. This project focuses on implementing the basic capablities of the printf function and learning about variadic functions.
 
 ## Features
 
